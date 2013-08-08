@@ -2,12 +2,7 @@ package cz.najmann.patterns.spec;
 
 import java.util.*;
 
-/**
- * User: littleli
- * Date: 15.7.13
- * Time: 0:04
- */
-public class Specify {
+public final class Specify {
 
     private Specify() {
         // not meant for instantiation
